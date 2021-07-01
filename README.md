@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aesota
+- 👋 Hi, I’m @aesota, a dispassionate observer of the world. I accept the status quo and respect the equilibrium
 - 👀 I’m interested in SOTA - state of the art, all of it, for everyone
 - 🌱 I’m currently learning about the best way to make education truly free in all senses of the word
 - 💞️ I’m looking to collaborate on education, AI, farming, and housing
