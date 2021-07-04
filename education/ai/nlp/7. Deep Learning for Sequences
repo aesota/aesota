@@ -1,0 +1,32 @@
+# Deep Learning for Sequences
+
+## Define (What, How, Why)
+1. Autoregressive generation
+1. Elman networks
+1. Simple recurrent networks
+1. Forward RNN
+1. Backpropagation through time
+1. Teacher forcing
+1. Weight tying
+1. RNN for language models
+1. end-to-end training
+1. Stacked RNNs
+1. Bidirectional RNNs
+1. Hierarchical RNNs
+1. LSTM
+1. Forget gate
+1. Add gate
+1. Output
+1. GRU
+1. Transformers
+1. Self-attention
+1. Multihead self-attention layer
+1. Positional embeddings
+1. Transformers for autoregressive language models
+1. Transformers for contextual generation
+1. Transformers for text summarization
+1. Potential harms from language models
+ 
+## Formulate
+1. Inference in RNNs
+1. $\text{MultiHeadAttn}(Q, K, V)$
