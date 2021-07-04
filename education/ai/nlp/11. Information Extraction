@@ -1,0 +1,41 @@
+# Information Extraction
+
+## Define (What, how, why)
+1. Information extraction
+1. Relation extraction
+1. Knowledge graphs
+1. Event extraction
+1. Temporal expression
+1. Template filling
+1. Infoboxes
+1. RDF triple
+1. Freebase
+1. is-a
+1. Hypernym
+1. Hearst patterns
+1. Features for supervised relation classifiers
+1. Named entity features
+1. Syntactic structure based features
+1. Neural relation classifiers
+1. Semisupervised relation extraction via bootstrapping
+1. Seed patterns
+1. Seed tuples
+1. Bootstrapping
+1. Confidence values
+1. Semantic drift
+1. Noisy-or
+1. Distant supervision
+1. Unsupervised relation extraction
+1. Open information extraction
+1. Relation extraction evaluation
+1. Temporal expression extraction
+1. Temporal normalization
+1. Fully qualified time expression
+1. Temporal expression
+1. Event extraction
+1. Temporal ordering of events
+1. Allen relations
+1. TimeBank corpus
+1. Template recognition
+1. Role-filler extraction
+1. Finite-state template filling
