@@ -1,0 +1,72 @@
+# Machine Translation
+
+# Define (What, how, why)
+1. Machine Translation
+1. Information access
+1. Post-editing
+1. Computer-aided translation
+1. Localization
+1. Encoder-Decoder
+1. Universal language
+1. Translation divergence
+1. Linguistic typology
+1. Word order typology
+1. SVO
+1. SOV
+1. VSO
+1. Lexical divergences
+1. Lexical gap
+1. Verb-framed languages
+1. Satellite-framed languages
+1. Morphological typology
+1. Isolating languages
+1. Polysynthetic languages
+1. Agglutinative languages
+1. Fusion languages
+1. Referential density
+1. Pro-drop languages
+1. Referentially dense languages
+1. Cold language
+1. Hot language
+1. Encoder-Decoder Model
+1. Source text
+1. Target text
+1. Teacher forcing in the decoder
+1. Attention mechanism for translation
+1. Beam search
+1. Greedy decoding
+1. Search tree
+1. Beam width
+1. Beam search decoding algorithm
+1. Encoder-Decoder with transformers
+1. BPE or wordpiece
+1. Parallel corpus
+1. Europarl corpus
+1. OpenSubtitles corpus
+1. ParaCrawl corpus
+1. Sentence alignment
+1. Backtranslation
+1. Monte Carlo search
+1. Machine translation evaluation
+1. Adequacy
+1. Fluency
+1. Ranking
+1. Automatic Evaluation
+1. BLEU
+1. Statistical significance testing for BLEU
+1. Embedding-based automatic evaluation
+1. Bias and ethical issues in MT
+1. Bias amplification by MT
+1. Confidence
+1. Low-resourced languages
+
+# Formulate
+1. Encoder-Decoder with RNNs
+1. Dot-product attention
+1. Length-normalized beam search score
+1. Sentence alignment cost function
+1. $prec_n$, n-gram precision
+1. Brevity Penalty, $BP$
+1. BLEU score in terms of $BP$ and $prec_n$
+1. Modified n-gram precision
+1. BERTSCORE, $R_BERT$, $P_BERT$
