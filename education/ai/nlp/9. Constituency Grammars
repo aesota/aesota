@@ -1,0 +1,83 @@
+# Constituency Grammars
+
+## Define (What, how, why)
+1. Syntax
+1. Combinatory categorical grammar
+1. Constiuency grammar
+1. Syntactic dependencies
+1. Dependency parsing
+1. Noun phrase
+1. Preposed construction
+1. Postponed construction
+1. Context-Free Grammar
+1. Backus-Naur Form
+1. CFG rules, $R$
+1. Lexicon
+1. CFG terminals, $\Epsilon$
+1. CFG non-terminals, $H$
+1. CFG derivation
+1. Parse tree
+1. CFG domination
+1. CFG start symbol, $S$
+1. Bracketed notation of a parse tree
+1. Grammatical sentence
+1. Ungrammatical sentence
+1. Formal definition of CFG using $N$, $\Epsilon$, $R$, $S$
+1. Syntactic parsing
+1. Sentence-level constructions
+1. Declarative structure
+1. Imperative structure
+1. Yes-no question structure
+1. Wh-phrase
+1. Wh-word
+1. Wh-subject-question
+1. Wh-non-subject-question
+1. Long-distaance dependencies
+1. Clause
+1. Verbal arguments
+1. Noun phrase
+1. Determiner
+1. Mass nouns
+1. Nominal
+1. Cardinal numbers
+1. Ordinal numbers
+1. Quantifiers
+1. Adjective phrase
+1. Postmodifiers
+1. Prepositional phrases
+1. Non-finite clauses
+1. Relative clauses
+1. Relative pronous
+1. Predeterminers
+1. Verb phrase
+1. Sentential complements
+1. Transitive verbs
+1. Intransitive verb
+1. Subcategorization frame
+1. Conjunction
+1. Coordinate
+1. Metarules
+1. Treebanks
+1. Penn Treebank
+1. Traces
+1. Syntactic movement
+1. Treebank-based grammars
+1. Lexical Head
+1. Head finding
+1. Grammar equivalence
+1. Weak equivalence of grammars
+1. Strong equivalence of grammars
+1. Normal form
+1. Chomsky normal form
+1. Binary branching
+1. Chomsky adjunction
+1. Lexicalized grammars
+1. Combinatory cateegorical grammar
+1. CCG categories
+1. CCG lexicon
+1. CCG rules
+1. Forward composition
+1. Backward composition
+1. Type raising
+1. CCG for long-distanced dependencies
+1. CCGBank
