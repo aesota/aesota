@@ -1,0 +1,68 @@
+# Semantics
+
+# Define (What, how, why)
+1. Meaning representations
+1. Semantic parsing
+1. Computational semantics
+1. First-Order Logic
+1. Abstract meaning representation
+1. Frame-based representation
+1. Slot-filler representation
+1. Computational representation doctrines
+1. Verifiability
+1. Unambiguous representations
+1. Canonical form
+1. Inference and variables
+1. Expressiveness
+1. Model-theoritic semantics
+1. Non-logical vocabulary
+1. Logical vocabulary
+1. Denotation
+1. Domain
+1. Extensional
+1. Interpretation
+1. Modeling using domain, properties, and relations
+1. Truth-conditional semantics
+1. First-order logic
+1. Term
+1. Constant
+1. Function
+1. Variable
+1. Logical connectives
+1. Quantifiers
+1. Lambda notation
+1. $\lambda$-reduction
+1. Currying
+1. Inference
+1. Modus ponens
+1. Antecedent
+1. Consequent
+1. Forward chaining
+1. Backward chaining
+1. Plausable reasoning
+1. Abduction
+1. Sound
+1. Complete
+1. Resolution
+1. Event and state representations
+1. Arity
+1. Event Variable
+1. Neo-Davidsonian
+1. Temporal logic
+1. Tense logic
+1. Reference point
+1. Aspect
+1. Stative expressions
+1. Activity expressions
+1. Achievement expressions
+1. Telic Eventualities
+1. Description logics
+1. Terminology
+1. TBox
+1. ABox
+1. Ontology
+1. Subsumption
+1. Instance checking
+1. Implied hierarchy
+1. Semantic web
+1. Web ontology language (OWL)
