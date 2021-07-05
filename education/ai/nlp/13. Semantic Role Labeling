@@ -1,0 +1,36 @@
+# Semantic Role Labeling
+
+# Define (What, how, why)
+1. Semantic roles
+1. Deep roles
+1. Thematic roles
+1. Agents
+1. Theme
+1. Diathesis Alternations
+1. Thematic grid
+1. Case frame
+1. Verb alternation
+1. Dative alternation
+1. Proto-agent
+1. Proto-patient
+1. PropBank
+1. NomBank
+1. FrameNet
+1. Frame elements
+1. Core roles
+1. Non-core roles
+1. Semantic role labeling
+1. Feature-based SRL
+1. Neural SRL
+1. Selectional restriction
+1. Selectional preference
+1. Selectional preference strength
+1. Pseudowords
+1. Primitive decomposition
+1. Componential analysis
+1. Conceptual dependency
+
+Formulate
+1. Relative entropy, KL Divergence, $D(P||Q)$
+2. Selectional Association
+3. Selectional preference via conditional probability 
