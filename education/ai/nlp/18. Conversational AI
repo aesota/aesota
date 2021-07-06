@@ -99,6 +99,179 @@
 1. Representational harm
 1. Tay chatbot
 1. Institutional Review Board (IRB)
-
+1. Phonetics
+1. Phone
+1. International Phonetic Alphabet (IPA)
+1. Opaque
+1. Transparent
+1. Articulatory Phonetics
+1. Trachea
+1. Larynx
+1. Voice folds
+1. Glottis
+1. Voiced sound
+1. Unvoiced sound
+1. Vocal tract
+1. Oral tract
+1. Nasal tract
+1. Nasal ssounds
+1. Consonant
+1. Vowel
+1. Semivowel
+1. Place of articulation
+1. Labial
+1. Dental
+1. Alveolar
+1. Palatal
+1. Palate
+1. Velar
+1. Glottal
+1. Manner of articulation
+1. Stop
+1. Closure
+1. Release
+1. Plosives
+1. Nasal sounds
+1. Fricatives
+1. Sibilantss
+1. Affricates
+1. Approximants
+1. Lateral sound
+1. Tap
+1. Vowel height
+1. Vowel frontness
+1. Vowel backness
+1. Front vowels
+1. Back vowels
+1. High vowels
+1. Mid vowels
+1. Low vowels
+1. Diphthong
+1. Rounded vowels
+1. Syllable
+1. Nucleus
+1. Onset
+1. Complex onsets
+1. Coda
+1. Rime
+1. Syllabification
+1. Phonotactics
+1. Prosody
+1. Fundamental Frequency
+1. F0
+1. Energy
+1. Duration
+1. Discourse structure
+1. Saliency
+1. Prominence
+1. Pitch accent
+1. Lexical stress
+1. Reduced vowel
+1. Schwa
+1. Prominence
+1. Prosodic phrasing
+1. Intonation phrase
+1. Intermediate phrase
+1. Tune
+1. Question rise
+1. Final fall
+1. Continuation rise
+1. Contradiction
+1. Surprise
+1. ToBI
+1. Pitch accents
+1. Boundary tone
+1. Wave frequency
+1. Wave amplitude
+1. Wave period
+1. Compression
+1. Rarefaction
+1. Analog-to-digital conversion
+1. Sampling
+1. Quantization
+1. Sampling rate
+1. Nyquist frequency
+1. Channel
+1. Linear PCM
+1. Pitch track
+1. Pitch extraction
+1. Fourier analysis
+1. Spectrum
+1. Cochlea
+1. Spectrogram
+1. Formant
+1. Source-filter model
+1. Harmonic
+1. Pronunciation dictionaries
+1. Time-aligned transcription
+1. Automatic Speech Recognition (ASR)
+1. Speech synthesis
+1. Text-to-speech (TTS)
+1. Digit recognition
+1. Read speech
+1. Conversational speech
+1. LibriSpeech
+1. Switchboard
+1. CALLHOME
+1. CORAAL
+1. CHiME
+1. HKUST
+1. AISHELL-1
+1. Windowing
+1. Stationary signal
+1. Non-stationary signal
+1. Frame
+1. Stride
+1. Discrete Fourier Transform
+1. Fast Fourier Transform
+1. Speech recognition architecture
+1. Attention-based encoder decoder (AED)
+1. Listen, attend, and spell (LAS)
+1. Low frame rate
+1. ASR n-best list
+1. ASR rescore
+1. Connectionist Temporal Classification (CTC)
+1. Alignment
+1. Blank
+1. AED + CTC
+1. Streaming models
+1. RNN-T
+1. Word Error Rate
+1. Sentence error rate
+1. Statistical significance for ASR
+1. MAPSSWE
+1. MacNeemar
+1. Text-to-speech
+1. Vocoding
+1. Vocoder
+1. TTS preprocessing
+1. Non-standard words
+1. Semiotic class
+1. Covering grammars
+1. Spectrogram prediction
+1. Tacotron2
+1. Wavenet
+1. Location-based attention
+1. WaveNet vocoder
+1. Dilated convolutions
+1. Mean Opinion Score (MOS)
+1. AB tests
+1. Wake word detection
+1. Speaker diarization
+1. Speaker recognition
+1. Speaker verification
+1. Speaker identification
+1. Language identification
 ## Formulate
 1. Slot error rate for a sentence
+1. PCM
+1. RMS amplitude
+1. Power
+1. Intensity
+1. Mel
+1. Rectangular window
+1. Hamming window
+1. Euler's formula
+1. Typical ASR scoring function
+1. CTC inference
+1. CTC score
