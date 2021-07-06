@@ -1,0 +1,104 @@
+# Conversational AI
+
+# Define (What, how, why)
+1. Conversation
+1. Dialogue
+1. Dialogue system
+1. Conversational agent
+1. Chatbot
+1. Conversational AI
+1. Human conversation properties
+1. Turns
+1. Endpointing
+1. Speech acts
+1. Constatives
+1. Directives
+1. Commissives
+1. Acknowledgments
+1. Grounding
+1. Common ground
+1. Subdialogue
+1. Dialogue structure
+1. Conversational analysis
+1. Adjacency pair
+1. Side sequence
+1. Correction subdialogue
+1. Clarification question
+1. Presequence
+1. Initiative
+1. Mixed Initiative
+1. User-initiative
+1. System-initiative
+1. Inference
+1. Implicature
+1. Maxim of relevance
+1. Rule-based chatbots
+1. ELIZA
+1. PARRY
+1. Corpus-based chatbots
+1. Response by generation
+1. Response by retrieval
+1. Response by retrieving and refining knowledge
+1. Frame-based dialogue systems
+1. Dialogue state
+1. Frame
+1. Slot
+1. Domain ontology
+1. Control structure
+1. Natural language understanding
+1. Intent determination
+1. Slot filling
+1. Semantic grammar
+1. Restrictive grammar
+1. Template-based generation
+1. Prompt
+1. Dialogue-state architecture
+1. Dialogue-state
+1. Belief-state
+1. Dialogue state tracker
+1. Dialogue policy
+1. Natural language generation
+1. Dialogue acts
+1. Dialogue state tracking
+1. User correction acts
+1. Hyperarticulation
+1. Dialogue policy confirmation and rejection
+1. Explicit confirmation
+1. Implicit confirmation
+1. Rejection
+1. Progressive prompting
+1. Rapid reprompting
+1. Content planning
+1. Seentence realization
+1. Delexicalization
+1. Relexicalize
+1. Clarification questions
+1. Participant evaluation
+1. Observer evaluation
+1. Conversational AI Metrics
+1. Avoiding repetition
+1. Interestingness
+1. Making sense
+1. Fluency
+1. Listening
+1. Inquisitiveness
+1. Humanness
+1. Engagingness
+1. Acute-eval
+1. Adversarial evaluation
+1. Task completion success
+1. Task error rate
+1. Efficiency cost
+1. Quality cost
+1. System design of conversational AI
+1. Voice user interface
+1. User-centered design
+1. Wizard-of-Oz system
+1. Value sensitive design
+1. Ethical issues in conversational AI
+1. Representational harm
+1. Tay chatbot
+1. Institutional Review Board (IRB)
+
+## Formulate
+1. Slot error rate for a sentence
