@@ -1,0 +1,52 @@
+Question Answering
+
+# Define (What, how, why)
+1. Information retrieval
+1. Information-retrieval-based question answering
+1. Knowledge-based question answering
+1. Entity linking
+1. Factoid questions
+1. Open domain question answering
+1. Reading comprehension
+1. Long-form question answering
+1. Community question answering
+1. Search engine
+1. Ad hoc retrieval
+1. Document
+1. Collection
+1. Term
+1. Query
+1. Term weight
+1. BM25
+1. Document scoring
+1. Stop list
+1. Inverted index
+1. Postings
+1. Precision-recall curve
+1. IR-based QA
+1. Retrieve and read
+1. SQuAD
+1. HotpotQA
+1. Natural Questions
+1. TyDi QA
+1. IR-based QA
+1. Extractive QA
+1. Entity linking
+1. Wikification
+1. Anchor texts
+1. Neural graph-based linking
+1. Entity mention detection
+1. Entity linking
+1. Knowledge-based QA from RDF triples
+1. QA by semantic parsing
+1. Language models for QA
+1. Focus
+1. Lexical answer type
+1. Candidate answer generation
+1. Candidate answer scoring
+1. Answer mergin and scoring
+
+# Formulate
+1. Interpolated precision
+1. Mean Average Precision
+1. Mean Reciprocal Rank
