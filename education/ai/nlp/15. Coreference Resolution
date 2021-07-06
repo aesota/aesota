@@ -1,0 +1,57 @@
+# Coreference Resolution
+
+# Define (What, how, why)
+1. Mention
+1. Referent
+1. Corefer
+1. Discourse model
+1. Anaphora
+1. Anaphor
+1. Antecedent
+1. Singleton
+1. Coreference resolution
+1. Coreference chain
+1. Entity linking
+1. Event coreference
+1. Discourse deixis
+1. Referring expression
+1. Indefinite noun phrases
+1. Definite noun phrases
+1. Pronouns
+1. Demonstrative pronouns
+1. Zero anaphora
+1. Names
+1. Cataphora
+1. Bound
+1. Information status
+1. Discourse-new
+1. Discourse-old
+1. Bridging inference
+1. Given-new
+1. Accessible
+1. Salience
+1. Non-referring expressions
+1. Appositives
+1. Predicative NPs
+1. Prenominal NPs
+1. Expletives
+1. Generics
+1. Number agreement
+1. Person agreement
+1. Gender or noun class agreement
+1. Binding theory constraints
+1. Recency
+1. Grammatical role
+1. Verb semantics
+1. Selectional restrictions
+1. CoNLL F1
+1. MUC F-measure
+1. $B^3$
+1. Mention detection
+1. Anaphoricity detector
+1. Mention-pair architecture
+1. Mention-rank architecture
+1. Entity-based models
+1. Neural mention-ranking algorithm
+1. Winograd Schema
+1. Gender bias
