@@ -1,0 +1,103 @@
+# Machine Learning
+
+## Define (What, how, why)
+1. Learning algorithms
+1. Task
+1. Example
+1. Features
+1. Classification
+1. Classification with missing inputs
+1. Regression
+1. Transcription
+1. Machine translation
+1. Structured output
+1. Anomaly detection
+1. Synthesis and sampling
+1. Imputation of missing values
+1. Denoising
+1. Density estimation
+1. Probability mass function estimation
+1. Performance measure
+1. Experience
+1. Unsupervised learning algorithms
+1. Supervised learning algorithms
+1. Dataset
+1. Data points
+1. Label
+1. Target
+1. Reinforcement learning
+1. Design matrix
+1. Linear regression
+1. Parameters
+1. Weights
+1. Mean squared error
+1. Normal equations
+1. Generalization
+1. Training error
+1. Generalization error
+1. Test error
+1. Test set
+1. Statistical learning theory
+1. Data-generating process
+1. i.i.d. assumptions
+1. Data-generating distribution
+1. Underfitting
+1. Overfitting
+1. Capacity
+1. Hypothesis space
+1. Effective capacity
+1. Occam's razor
+1. Vapnik-Chervonenkis dimension
+1. Nonparametric models
+1. Nearest neighbor regression
+1. Bayes error
+1. No free lunch theorem
+1. Regularization
+1. Weight decay
+1. Regularizer
+1. Regularization
+1. Hyperparameters
+1. Validation set
+1. Cross-validation
+1. Point estimation
+1. Point estimator
+1. Function estimation
+1. Bias
+1. Aymptotically unbiased
+1. Sample mean
+1. Sample variance
+1. Unbiased sample variance
+1. Variance
+1. Standard error
+1. Mean squared error
+1. Consistency
+1. Almost sure convergence
+1. Maximum Likelihood Estimation
+1. Conditional Log-likelihood
+1. Mean squared error
+1. Maximum likelihood
+1. Statistical efficiency
+1. Parametric case
+1. Bayesian statistics
+1. Frequentist statistics
+1. Prior probability distribution
+1. Bayesian linear regression
+1. Maximum a Posteriori (MAP) Estimation
+1. Probabilistic supervised learning
+1. Support Vector Machines
+1. Gaussian kernel
+1. Radial basis function
+1. Template matching
+1. Kernel machines
+1. Support vectors
+1. Decision tree
+1. Unsupervised learning algorithms
+1. Principal components analysis
+1. k-means Clustering
+1. Stochastic Gradient Descent
+1. Cursee of Dimensionality
+1. Local constancy
+1. Smoothness regularization
+1. Local kernels
+1. Manifold learning
+1. Manifold hypothesis
